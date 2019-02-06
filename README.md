@@ -1,4 +1,4 @@
-#Git
+# Git
 Initialize the local directory as a Git repository.
 
 git init
