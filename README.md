@@ -1,4 +1,6 @@
-# Git
+# Data Science and Machine Learning Practice
+
+## Git Command
 Initialize the local directory as a Git repository.
 
 git init
@@ -26,3 +28,10 @@ git remote -v
 
 git push origin master
 >Pushes the changes in your local repository up to the remote repository you specified as the origin
+
+
+## Linear Regression
+
+## KNN
+
+## KVM
