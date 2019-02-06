@@ -11,6 +11,7 @@
 * [iris](http://cda.pinggu.org/view/3074.html)
 * [iris2](https://blog.csdn.net/tz_zs/article/details/73477870)
 * [Visualizing Multidimensional Data in Python](http://www.apnorton.com/blog/2016/12/19/Visualizing-Multidimensional-Data-in-Python/)
+* [Practical Business Python](www.pbpython.com)
 
 ## Medium:
 * https://medium.com/deep-math-machine-learning-ai
