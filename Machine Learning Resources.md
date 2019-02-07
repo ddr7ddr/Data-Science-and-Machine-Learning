@@ -1,5 +1,12 @@
 # Machine Learning Resources
 
+## Book:
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+
+## Paper:
+*
+
+
 ## Youtube:
 1. Python Programmer
 2. sentdex
